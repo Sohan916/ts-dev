@@ -3,5 +3,3 @@ button.addEventListener("click", () => {
   window.supportAI.enableAutoReply();
 });
 export {};
-
-// Testing git user
